@@ -7,7 +7,7 @@
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/Antonio_Btian">
       <img src="https://img.shields.io/badge/Twitter-blueviolet?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Tony-Btian&style=flat&color=blue" alt=""/>
