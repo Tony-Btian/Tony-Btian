@@ -21,8 +21,8 @@ I'm an Electrical and Electronic Engineering from China.
 - Exploring Technical Content Writing
 
 ### :fire: My Stats :
-<br>
+<div align="center">
 <a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Tony-Btian&theme=dark&background=000000" alt="GitHub Streak"/>
 </a>
-<br>
+</div>
