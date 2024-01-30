@@ -1,26 +1,28 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blueviolet?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Tony-Btian&style=flat&color=blue" alt=""/>
+  </div>
+  <h3>Welcome to my Github<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 </div>
 
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Tony-Btian&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## Something About Me
+I'm an Electrical and Electronic Engineering from China.
+- Currently a student with an MSc degree
+- Exploring Technical Content Writing
 
-
-<!---
-Tony-Btian/Tony-Btian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :fire: My Stats :
+<br>
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Tony-Btian&theme=dark&background=000000" alt="GitHub Streak"/>
+</a>
+<br>
